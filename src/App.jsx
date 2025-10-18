@@ -326,7 +326,7 @@ function Skills() {
     { title: "Programming Languages", items: ["Python", "SQL"] },
     { title: "Libraries", items: ["NumPy", "Pandas", "scikit-learn", "XGBoost", "TensorFlow", "Seaborn", "spaCy", "LangChain"] },
     { title: "Tools", items: ["Git", "Bash/Zsh", "Tableau", "Google Cloud Platform"] },
-    { title: "Languages", items: ["English (C2)", "Spanish (C1)"] },
+    { title: "Languages", items: ["English (Native)", "Spanish (Native)", "Portuguese (Native)"] },
   ];
 
   return (
